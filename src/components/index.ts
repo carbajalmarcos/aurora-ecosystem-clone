@@ -1,0 +1,5 @@
+export * from './Hero/Hero'
+export * from './TopBackground/TopBackground'
+export * from './Projects/Projects'
+export * from './NavBar/NavBar'
+export * from './Banner/Banner'

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 20 32" xmlns="http://www.w3.org/2000/svg" class="flex-shrink-0 w-4 h-4">
+    <g fill="#FFFFFF">
+        <path fill-opacity="0.602" d="M9.997 0v11.615l9.996 4.387z"></path>
+        <path d="M9.997 0 0 16.002l9.997-4.387z"></path>
+        <path fill-opacity="0.602" d="M9.997 23.53v7.892L20 17.83z"></path>
+        <path d="M9.997 31.422v-7.894L0 17.83z"></path>
+        <path fill-opacity="0.2" d="m9.997 21.703 9.996-5.701-9.996-4.384z"></path>
+        <path fill-opacity="0.602" d="m0 16.002 9.997 5.701V11.618z"></path>
+    </g>
+</svg>
