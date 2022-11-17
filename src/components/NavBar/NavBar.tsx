@@ -19,7 +19,7 @@ const navBarContainerCN = cntl`
   h-20
   px-10
   mx-auto
-  max-w-[1400px]
+  max-w-[87rem]
   bg-transparent
   z-50
 `
@@ -70,7 +70,6 @@ export const NavBar = () => {
 
   const handleScroll = (e: any) => {
     const { pageYOffset } = window;
-    console.log(pageYOffset);
     setIsOnTop(pageYOffset <= 50);
   };
   return (
